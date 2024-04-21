@@ -1,18 +1,29 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+title: How to start with coding
+subtitle: My first CS course
+cover-img: /assets/img/CS50x_pll.jpg
+thumbnail-img: /assets/img/CS50x_pll.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [course, test]
+author: Rachel Zu
 ---
+My first computer course was CS50, which is an introductory course suitable for beginners. Although it is an introductory course, it covers a wide range of knowledge and is suitable for beginners to understand the basic concepts of computers and explore programming languages such as C and python.
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+1. What to study in CS50?
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+CS50 is a basic programming course. In short, you will learn a little bit of everything, including C and Python (programming), SQL (database), HTML (webpage design), etc., to pave the way for you in computing 🙉
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+2. Who is suitable to study?
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Suitable for beginners. If you find it difficult, you can take a look at Crash Course Computer Science first. It is also suitable for beginners because its homework part is differentiated.
+
+3. How long does it take to study?
+
+Of course, this is a matter of opinion. If calculated in terms of hours, the lecture part of each class is 3 hours and the homework part is 4-20 hours.
+
+Therefore, if you want to browse quickly, you can finish a class in 7 hours at the fastest. If you want to study carefully, 20 hours in a class is not too much. There are 12 lessons in the entire course. Based on 4 hours of focused study every day, it can take as long as 60 days or as little as 20 days, depending on everyone’s plan.
+
+4. What’s so good about it?
+
+As a public elective course, its original design intention is to attract students regardless of major to learn about CS and become interested in CS. Judging from the realization of this goal, CS50 can be called a phenomenon. Since its launch in 2006, more than four million people have registered; YouTube has more than one million subscribers, and this cat head is also active on ins/discord and other platforms
