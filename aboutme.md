@@ -1,16 +1,23 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: quick story
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Rachel Zu. I am a Computer Programming student at Algonquin College with GPA 4.0/4.0, engaging in coding projects that demonstrate my proficiency in Java, web development and Database.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My experience as an Product Manager at iFLYTEK Co. Ltd for 5 years, which honed my soft skills in cross-functional teamwork, communication, and problem-solving. I designed products based on business usage scenarios and provided project management, leading to an increase in engagement and successful revenue growth initiatives.
 
-What else do you need?
+As I seek a co-op position starting in Sept 2024, I am eager to apply my technical expertise and collaborative approach to contribute meaningfully to innovative projects and drive continuous learning and growth within a dynamic team environment.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My Skills
+**Java**
+**HTML/CSS/Javascript**
+**SQL**
+**Python**
+**Spring Boot**
+**React**
+
+### My Hobbiles
+To be honest, I'm a _**photographer**_, so why don't you just watch [my instagram](https://www.instagram.com/rachel0227/) 
