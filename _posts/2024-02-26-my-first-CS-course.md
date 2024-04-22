@@ -2,7 +2,7 @@
 layout: post
 title: How to start with coding
 subtitle: My first CS course
-cover-img: /assets/img/CS50x_pll.jpg
+cover-img: /assets/img/CS50x_pll.png
 thumbnail-img: /assets/img/CS50x_pll.png
 share-img: /assets/img/path.jpg
 tags: [course, test]
